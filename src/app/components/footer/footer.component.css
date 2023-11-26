@@ -1,0 +1,13 @@
+.footer {
+    color: white;
+    background-color: #343a40; /* Set the background color to match the dark class */
+    text-align: center;
+    padding: 10px; /* Add some padding to the footer for better aesthetics */
+    width: 100%;
+    margin-top: auto; /* This will push the footer to the bottom */
+}
+
+.footer-text{
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+}
